@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="txt.name">Ingresa los °C</string>
+    <string name="btn.name">Calcular</string>
+</resources>
